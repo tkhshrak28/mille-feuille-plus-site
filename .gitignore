@@ -1,0 +1,13 @@
+*.sql
+*.sql.gz
+*.tar
+*.tar.gz
+*.zip
+*.ppk
+*.pem
+*.key
+*.pfx
+*.p12
+.env
+.env.*
+wp-config.php
